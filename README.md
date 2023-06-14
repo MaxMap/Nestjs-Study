@@ -26,4 +26,5 @@
 @Redirect：指定重定向的 url
 @Render：指定渲染用的模版引擎
 
--[custom-decorator 自定义装饰器](./custom-decorator/)
+- [custom-decorator 自定义装饰器](./custom-decorator/)
+- [argument-host 切换不同上下文](./argument-host/)

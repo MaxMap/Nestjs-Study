@@ -30,3 +30,4 @@
 - [argument-host 切换不同上下文](./argument-host/)
 - [metadata-and-reflector metadata 的使用](./metadata-and-reflector/)
 - [module-test forwardRef 解决相互引用问题](./module-test/)
+- [dynamic-module 动态模块](./dynamic-module/)

@@ -34,3 +34,4 @@
 - [Fastify http 处理库](./fastify-test/)
 - [middleware 中间件](./middleware-test/)
 - [interceptor-test Rxjs 使用](./interceptor-test/)
+- [pipe-test 管道方法](./pipe-test/)
